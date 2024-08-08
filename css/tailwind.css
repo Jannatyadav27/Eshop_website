@@ -6,9 +6,7 @@
   box-sizing: border-box;
 }
 
-/**
-Use a more readable tab size (opinionated).
-*/
+
 
 html {
   -moz-tab-size: 4;
